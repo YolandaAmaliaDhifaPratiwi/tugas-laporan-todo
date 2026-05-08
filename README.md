@@ -43,6 +43,8 @@
 ### D. App Screenshots
 
 - [ ] Emulator/Simulator running the app
+- [ ] <img width="417" height="963" alt="emulator task" src="https://github.com/user-attachments/assets/b5ba6e83-8a6e-480f-b9ed-8208853e82bf" />
+
 - [ ] Real device running the app
 - [ ] <img width="1080" height="2408" alt="tampilan task" src="https://github.com/user-attachments/assets/e2442fdc-c932-4f75-8ebb-39e190ddc03b" />
 - [ ] <img width="1080" height="2408" alt="tampilan calender" src="https://github.com/user-attachments/assets/d8ea408e-d44a-4597-bf44-bb00d873a856" />
